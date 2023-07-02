@@ -55,23 +55,13 @@ Once the Harmonica app is successfully installed and running on your device, you
 
 ### Home Screen
 
-The home screen displays a list of musical instruments. Scroll through the list to browse different instruments. Tap on an instrument to view its details and translations.
+The home screen displays a list of musical instruments. Scroll through the list to browse different instruments. Tap on an instrument to view.
 
-### Instrument Details
-
-The instrument details screen provides information about the selected instrument. It includes the instrument's name, description, origin, history, and translations. You can swipe left or right to view the next or previous instrument.
 
 ### Translations
 
-To view the translations of an instrument's name, tap on the "Translations" button on the instrument details screen. A list of languages will appear, and tapping on a language will display the translated name of the instrument in that language.
+A list of languages will appear, and tapping on a language will display the translated name of the instrument in that language.
 
-### Favorites
-
-To mark an instrument as a favorite, tap on the heart icon located on the instrument details screen. This will add the instrument to your favorites list for quick access. To view your favorite instruments, navigate to the favorites screen by tapping on the heart icon in the app's bottom navigation bar.
-
-### Search
-
-To search for a specific instrument, tap on the search icon in the app's bottom navigation bar. Enter the instrument's name or category in the search field, and the app will display matching results.
 
 ## Contributing
 
