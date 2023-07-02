@@ -71,7 +71,7 @@ When contributing to this project, please follow the [Flutter Style Guide](https
 
 ## License
 
-This project is not yet licensed.
+This project is licensed under the MIT License.
 
 ## Credits
 
