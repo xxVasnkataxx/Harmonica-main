@@ -83,4 +83,4 @@ Special thanks to our teacher for providing the original project files and guida
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact the project maintainer at [your_email
+If you have any questions or suggestions, feel free to contact the project maintainer at ivandraganov866@gmail.com
